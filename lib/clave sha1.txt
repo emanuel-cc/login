@@ -1,0 +1,15 @@
+SHA1: 2B:6B:FB:57:D6:D1:EF:A9:CA:7D:FC:64:E8:29:5C:C8:E8:F1:1F:32
+	 SHA256: 40:CD:4C:03:1C:32:AD:49:94:5C:53:99:8C:C5:CE:5C:1E:84:56:75:E3:26:4F:B4:BC:E5:BC:90:8E:E3:F4:33
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 1024-bit RSA key
+Version: 1
+
+
+SHA1: 2B:6B:FB:57:D6:D1:EF:A9:CA:7D:FC:64:E8:29:5C:C8:E8:F1:1F:32
+	 SHA256: 40:CD:4C:03:1C:32:AD:49:94:5C:53:99:8C:C5:CE:5C:1E:84:56:75:E3:26:4F:B4:BC:E5:BC:90:8E:E3:F4:33
+Signature algorithm name: SHA1withRSA
+Subject Public Key Algorithm: 1024-bit RSA key
+Version: 1
+
+
+https://developers.google.com/android/guides/client-auth
