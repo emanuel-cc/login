@@ -23,7 +23,7 @@ class _SignInPageState extends State<SignInPage> {
       await Navigator.of(context)
           .pushReplacement(MaterialPageRoute(builder: (context) => HomePage()));
     } catch (e) {
-      print(e);
+      print(e.message);
     }
   }
 
